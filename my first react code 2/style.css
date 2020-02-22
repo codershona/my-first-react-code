@@ -1,0 +1,8 @@
+#people {
+    display: inline-block;
+    margin: 16px;
+    border: 1px solid #3c3c3c;
+    box-shadow: 0 2px 2px #787878;
+    width: 390px;
+    padding: 40px;
+}
